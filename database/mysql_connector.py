@@ -6,7 +6,7 @@ class MySQLConnector:
         self.config = {
             "host": "localhost",
             "user": "root",
-            "password": "",
+            "password": "truyen123",
             "database": "livestock_app"
         }
 

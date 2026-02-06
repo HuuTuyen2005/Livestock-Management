@@ -1,0 +1,9 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# --- Hệ thống ---
+.DS_Store
+Thumbs.db

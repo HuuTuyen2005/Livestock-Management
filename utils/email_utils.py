@@ -9,8 +9,8 @@ def send_email(to_email, subject, content):
     """
 
     # THAY BẰNG EMAIL & APP PASSWORD CỦA BẠN
-    SMTP_EMAIL = "tuyen01632647361@gmail.com"
-    SMTP_PASSWORD = "xdpzlplsopxzjyyd"
+    SMTP_EMAIL = ""
+    SMTP_PASSWORD = ""
 
     msg = MIMEMultipart()
     msg["From"] = SMTP_EMAIL
