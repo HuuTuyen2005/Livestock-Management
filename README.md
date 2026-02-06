@@ -1,4 +1,5 @@
 ### Livestock Management System
+```text
 Quản lý giống và thức ăn chăn nuôi
 1. Quản trị hệ thống
 1.1. Quản lý danh mục đơn vị hành chính cấp huyện
@@ -67,7 +68,7 @@ Quản lý giống và thức ăn chăn nuôi
 2.3.10. Tìm kiếm thông tin hóa chất, sản phẩm sinh học, vi sinh vật cấm sử dụng trong thức ăn chăn nuôi
 2.3.11. Quản lý danh mục nguyên liệu được phép sử dụng làm thức ăn trong chăn nuôi
 2.3.12. Tìm kiếm thông tin nguyên liệu được phép sử dụng làm thức ăn trong chăn nuôi
-
+```
 ## 1. Prerequisites
 Trước khi chạy dự án, cần đảm bảo các yêu cầu sau:
 - **Python**: >= 3.10
